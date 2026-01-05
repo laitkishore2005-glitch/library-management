@@ -1,4 +1,4 @@
 def register_student(name, roll_no):
-    print(f"Student {name} with Roll No {roll_no} registered successfully")
+    print(f"Student {name} with Reg No {roll_no}  successfully registered")
 
 register_student("Lalit", "23MIS0379")
